@@ -6,7 +6,7 @@ HamsterEdit
 ----------------------------------------------------------------------------
 */
 
-define('SCRIPTTITLE','HamsterEdit');
+define('SCRIPTTITLE','HamEdit');
 define('SCRIPTVERSION','7.5');
 define('CREATOR','Hamilton Cline');
 define('CREATOREMAIL','hamdiggy@gmail.com');
